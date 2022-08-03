@@ -1,0 +1,7 @@
+
+Java has been one of the most popular programming languages for many years.
+Java is Object Oriented. However, it is not considered as pure object-oriented as it provides support for primitive data types (like int, char, etc)
+
+
+page 2
+text
